@@ -1,11 +1,11 @@
 @charset "UTF-8";
 
 // Color
-@import "../01-settings/color-variables";
+@import "../../01-settings/color-variables";
 @import "components/color-classes";
 
 // Variables;
-@import "../01-settings/variables";
+@import "../../01-settings/variables";
 
 // Reset
 @import "components/normalize";

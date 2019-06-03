@@ -1,4 +1,9 @@
 // =========================
+// 00.- Vendor - import framework styles
+// =========================
+@import "00-vendor/materialize/materialize";
+
+// =========================
 // 01.- Settings - import of global variables
 // =========================
 @import "01-settings/vars";

@@ -1,16 +1,13 @@
 :root {
-  --g-color-first: #ff1e13;
-  --g-color-first-hover: #1d2258;
-  --g-color-first-pressed: #1d2258;
-  --g-color-second: #bc3e48;
-  --g-color-second-hover: #e43c6a;
-  --g-color-second-pressed: #a1284a; //
-  --g-color-third: #014592;
-  --g-color-third-hover: #014592;
-  --g-color-third-pressed: #014592;
-  --g-color-fourth: #00d2c3;
-  --g-color-fourth-hover: #01b6a9;
-  --g-color-fourth-pressed: #057069; //
+  --g-color-first: #81D7EA;
+  --g-color-first-hover: darken(#81D7EA, 15%);
+  --g-color-first-pressed: darken(#81D7EA, 25%);
+  --g-color-second: #EF7370;
+  --g-color-second-hover: darken(#EF7370, 15%);
+  --g-color-second-pressed: darken(#EF7370, 25%);
+  --g-color-third: #FFDC6C;
+  --g-color-third-hover: darken(#FFDC6C, 15%);
+  --g-color-third-pressed: darken(#FFDC6C, 25%);
 }
 
 //global colors
